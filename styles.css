@@ -1,0 +1,7 @@
+body {background-color: #C5CFE8;}
+h1 {color: #F0B170; font-family: Oriya ; font-size: 38px;}
+p {color: #A697C7; font-family: Oriya ; font-size: 14px}
+img{margin-left: 200px;border-color: pink; border-width: 10px; border-style: double;}
+ul {color: #A697C7;}
+a {color: #A697C7; text-decoration: none;}
+a:hover {color: orange; text-decoration: underline;}
